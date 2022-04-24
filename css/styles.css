@@ -1,6 +1,11 @@
 
 .body {
-    font-family: 'Roboto', sans-serif;
+    font-family: -var(--main-font);
+    color:#212121;
+}
+:root {
+    --main-font: 'Roboto', sans-serif;
+    color:#212121;
 }
 .link {    
     text-decoration: none;
@@ -28,7 +33,7 @@ font-style: normal;
 font-weight: 500;
 font-size: 26px;
 line-height: 1,14;
-color: #212121;
+
 }
 .contact {
 font-style: normal;
@@ -83,9 +88,10 @@ background: #2F303A;
     font-size: 14px;
     line-height: 1,14;
     letter-spacing: 0.03em;
-    text-transform: uppercase;
-    
-    color: #212121;  
+    text-transform: uppercase;  
+}
+.idea-main{
+    list-style: none;
 }
 .idea-text {
     font-style: normal;
@@ -103,8 +109,7 @@ background: #2F303A;
     line-height: 1,16;
     text-align: center;
     letter-spacing: 0.03em;
-    
-    color: #212121;       
+          
 }
 .image {
     list-style: none;
@@ -120,7 +125,6 @@ background: #2F303A;
     text-align: center;
     letter-spacing: 0.03em;
     
-    color: #212121;    
     }
 .team-people {
     font-style: normal;
@@ -130,8 +134,7 @@ background: #2F303A;
     
     text-align: center;
     letter-spacing: 0.03em;
-    
-    color: #212121;  
+ 
 }
 
 .profesion {
@@ -145,6 +148,19 @@ background: #2F303A;
     
     color: #757575;    
 }
+.button-portfolio {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1,85;
+    
+    text-align: center;
+    letter-spacing: 0.03em;
+       
+}
+.button-portfolio:hover,
+.button-portfolio:focus {
+color: #2196F3;}
 
 .portfolio {
     list-style: none;
@@ -156,7 +172,7 @@ font-weight: 700;
 font-size: 18px;
 line-height: 2;
 letter-spacing: 0.06em;
-color: #212121; 
+ 
 }
 
 .profesion-portfolio{
@@ -182,7 +198,7 @@ list-style: none;
 color: #FFFFFF;
 
 }
-.and {
+.end {
     background: #2F303A;
 }
 .accent-footer {
@@ -217,7 +233,7 @@ color: #FFFFFF;
     letter-spacing: 0.03em;    
     color: rgba(255, 255, 255, 0.6);   
  }
- .rewq {
+ .contact-portfolio {
     list-style: none;
  }  
  .maps {
@@ -232,9 +248,8 @@ color: #FFFFFF;
 .navigation-portfolio {
     text-decoration: none;
 }
-
-:root {
---akcent-color: #212121;
---main-font: Roboto;
+.pointer {
+    cursor: pointer;
 }
+
 
