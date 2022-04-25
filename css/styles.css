@@ -19,27 +19,27 @@
 
 .logo-link {
 font-family: 'Raleway';
-font-style: normal;
 font-weight: 700;
 font-size: 26px;
-line-height: 1,19;
+line-height: 1.19;
 color: #2196F3;
 }
 .accent {
     color: #212121;
 }
+
 .menu-link {
-font-style: normal;
 font-weight: 500;
-font-size: 26px;
-line-height: 1,14;
+font-size: 16px;
+line-height: 1.14;
+color:#212121;
 
 }
 .contact {
 font-style: normal;
 font-weight: 500;
 font-size: 14px;
-line-height: 1,14;
+line-height: 1.14;
 letter-spacing: 0.02em;
     
 color: #757575;  
@@ -57,7 +57,7 @@ color: #2196F3;
 font-style: normal;
 font-weight: 900;
 font-size: 44px;
-line-height: 1,36;
+line-height: 1.36;
 
 text-align: center;
 letter-spacing: 0.06em;
@@ -72,7 +72,7 @@ background: #2F303A;
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
-    line-height: 1,87;
+    line-height: 1.87;
         
     display: flex;
     align-items: center;
@@ -86,7 +86,7 @@ background: #2F303A;
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
-    line-height: 1,14;
+    line-height: 1.14;
     letter-spacing: 0.03em;
     text-transform: uppercase;  
 }
@@ -97,7 +97,7 @@ background: #2F303A;
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
-    line-height: 1,71;  
+    line-height: 1.71;  
     letter-spacing: 0.03em;
     
     color: #757575;   
@@ -106,7 +106,7 @@ background: #2F303A;
     font-style: normal;
     font-weight: 700;
     font-size: 36px;
-    line-height: 1,16;
+    line-height: 1.16;
     text-align: center;
     letter-spacing: 0.03em;
           
@@ -121,7 +121,7 @@ background: #2F303A;
     font-style: normal;
     font-weight: 700;
     font-size: 36px;
-    line-height: 1,16;
+    line-height: 1.16;
     text-align: center;
     letter-spacing: 0.03em;
     
@@ -130,7 +130,7 @@ background: #2F303A;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
-    line-height: 1,18;
+    line-height: 1.18;
     
     text-align: center;
     letter-spacing: 0.03em;
@@ -141,7 +141,7 @@ background: #2F303A;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
-    line-height: 1,18;
+    line-height: 1.18;
        
     text-align: center;
     letter-spacing: 0.03em;
@@ -152,7 +152,7 @@ background: #2F303A;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
-    line-height: 1,85;
+    line-height: 1.85;
     
     text-align: center;
     letter-spacing: 0.03em;
@@ -179,7 +179,7 @@ letter-spacing: 0.06em;
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: 1,87;
+line-height: 1.87;
 
 letter-spacing: 0.03em;
 
@@ -191,7 +191,7 @@ color: #757575;
 font-style: normal;
 font-weight: 400;
 font-size: 14px;
-line-height: 1,71;
+line-height: 1.71;
 
 letter-spacing: 0.03em;
 list-style: none;
@@ -209,7 +209,7 @@ color: #FFFFFF;
     font-style: normal;
     font-weight: 700;
     font-size: 26px;
-    line-height: 1,19;
+    line-height: 1.19;
     
     letter-spacing: 0.03em;
     
@@ -219,8 +219,8 @@ color: #FFFFFF;
 .lotation {
     font-style: normal;
     font-weight: 400;
-    font-size: 1,71;
-    line-height: 24px;
+    font-size: 14;
+    line-height: 1.71;
       
     letter-spacing: 0.03em;    
     color: #FFFFFF;
@@ -229,7 +229,7 @@ color: #FFFFFF;
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
-    line-height: 1,71;
+    line-height: 1.71;
     letter-spacing: 0.03em;    
     color: rgba(255, 255, 255, 0.6);   
  }
